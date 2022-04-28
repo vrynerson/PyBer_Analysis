@@ -5,7 +5,7 @@ In the inital PyBer ride-share analysis, the type of cities were divided into ca
 
 ## Results: 
 
-Below is a DataFrame from the analysis. In both Total Rides and Total Drivers columns, the amount of rides and drivers rise as the city population increases. In the Total Fares column, the amount increases almost fivefold from Rural to Suburban and almost doubles from Suburban to Urban. In both Average Fare per Ride and Average Fare per Driver columns, the monetary values decrease as the city population increases. 
+Below is a DataFrame from the analysis. In both Total Rides and Total Drivers columns, the amount of rides and drivers rise as the city population increases. In the Total Fares column, the amount increases almost fivefold from Rural to Suburban and almost doubles from Suburban to Urban. In both Average Fare per Ride and Average Fare per Driver columns, the average fares decrease as the city population increases. 
 
 ![pyber_summary_df](https://user-images.githubusercontent.com/98570777/165680042-eb6805f8-3260-4c58-a379-dee5fb3bd990.png)
 
